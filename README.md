@@ -29,6 +29,10 @@ You can find my contributions to science by topic:
 1. Dataset (TODO)
 2. Annotation Guidelines For Pathologists and AI Scientists  
    2.1. Annotating for artificial intelligence applications in digital pathology: A practical guide for pathologists and researchers ([Paper](https://www.sciencedirect.com/science/article/pii/S0893395222055260))   
+3. Detecting and Grading Colorectal Cancer (CRC) from Whole Slide Images with Mixed-Supervision   
+   3.1. CAD systems for colorectal cancer from WSI are still not ready for clinical acceptance ([Paper](https://www.nature.com/articles/s41598-021-93746-z))   
+   3.2. iMIL4PATH: A semi-supervised interpretable approach for colorectal whole-slide images ([Paper](https://www.mdpi.com/2072-6694/14/10/2489))   
+   3.3. A CAD System for Colorectal Cancer from WSI: A Clinically Validated Interpretable ML-based Prototype ([Paper](https://arxiv.org/abs/2301.02608))  
 
 
 **Others**
