@@ -33,7 +33,7 @@ You can find my contributions to science by topic:
    3.1. CAD systems for colorectal cancer from WSI are still not ready for clinical acceptance ([Paper](https://www.nature.com/articles/s41598-021-93746-z))   
    3.2. iMIL4PATH: A semi-supervised interpretable approach for colorectal whole-slide images ([Paper](https://www.mdpi.com/2072-6694/14/10/2489))   
    3.3. A CAD System for Colorectal Cancer from WSI: A Clinically Validated Interpretable ML-based Prototype ([Paper](https://arxiv.org/abs/2301.02608))  
-
+4. Co-developed the first automatic colorectal cancer diagnosis from WSI prototype in Portugal ([News](https://noticias.up.pt/inesc-tec-desenvolve-solucao-pioneira-para-diagnostico-do-cancro-colorretal/),  [News2](https://www.publico.pt/2022/02/23/ciencia/noticia/desenvolvida-solucao-optimizar-diagnostico-doencas-colorrectais-1996497) and [News3](https://noticiassaude.pt/desenvolvido-no-pais-prototipo-de-ia-que-ajuda-no-diagnostico-do-cancro-colorretal/))
 
 **Others**
 1. Push-up counter for a hackathon 
