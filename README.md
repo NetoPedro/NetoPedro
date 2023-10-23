@@ -36,5 +36,7 @@ You can find my contributions to science by topic:
 4. Co-developed the first automatic colorectal cancer diagnosis from WSI prototype in Portugal ([News](https://noticias.up.pt/inesc-tec-desenvolve-solucao-pioneira-para-diagnostico-do-cancro-colorretal/),  [News2](https://www.publico.pt/2022/02/23/ciencia/noticia/desenvolvida-solucao-optimizar-diagnostico-doencas-colorrectais-1996497) and [News3](https://noticiassaude.pt/desenvolvido-no-pais-prototipo-de-ia-que-ajuda-no-diagnostico-do-cancro-colorretal/))
 
 **Others**
-1. Push-up counter for a hackathon 
+1. Push-up/Pull-up/Squats counter for a hackathon ([Code](https://github.com/NetoPedro/Deep-Learning-Push-Up-Counter))
+2. Street Segmentation ([Code](https://github.com/NetoPedro/Street-Segmentation-Pytorch))
+
 
