@@ -27,9 +27,9 @@ You can find my contributions to science by topic:
 
 **Digital Pathology**
 1. Dataset (TODO)
-2. Annotation Guidelines (TODO)
-2. Three Weakly Supervised Approaches (TODO)
-3. A working platform for the diagnosis (TODO)
+2. Annotation Guidelines For Pathologists and AI Scientists  
+   2.1. Annotating for artificial intelligence applications in digital pathology: A practical guide for pathologists and researchers ([Paper](https://www.sciencedirect.com/science/article/pii/S0893395222055260))   
+
 
 **Others**
 1. Push-up counter for a hackathon 
