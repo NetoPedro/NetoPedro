@@ -10,7 +10,7 @@ I'm a Machine Learning Researcher at INESC TEC in Portugal working on explainabl
 You can find my contributions to science by topic: 
 
 **Biometrics**  🧔🏻 🕵🏻‍♂️
-1. Explainable Artificial Intelligence for Biometrics ([Paper](https://arxiv.org/abs/2208.09500)!!!)-> updated paper coming soon. 
+1. Causality-inspired Taxonomy for Artificial Intelligence ([Paper](https://arxiv.org/abs/2208.09500)) 
 2. Score Calibration  
   2.1. PIC-Score: Probabilistic Interpretable Comparison Score ([Paper](https://openaccess.thecvf.com/content/CVPR2023W/Biometrics/html/Neto_PIC-Score_Probabilistic_Interpretable_Comparison_Score_for_Optimal_Matching_Confidence_in_CVPRW_2023_paper.html) and [Code](https://github.com/pterhoer/OptimalMatchingConfidence))  
 3. Bias on Face Recognition  
