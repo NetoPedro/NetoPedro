@@ -27,7 +27,7 @@ You can find my contributions to science by topic:
   6.1. Myope Models - Are Face Presentation Attack Detection Models Short-Sighted? ([Paper](https://openaccess.thecvf.com/content/WACV2022W/XAI4B/html/Neto_Myope_Models_-_Are_Face_Presentation_Attack_Detection_Models_Short-Sighted_WACVW_2022_paper.html))  
 
 **Digital Pathology**
-1. Dataset (TODO)
+1. [Colorectal Cancer WSI dataset](https://rdm.inesctec.pt/dataset/nis-2023-008) and [Cervical Cancer WSI dataset](https://rdm.inesctec.pt/dataset/nis-2024-003)
 2. Annotation Guidelines For Pathologists and AI Scientists  
    2.1. Annotating for artificial intelligence applications in digital pathology: A practical guide for pathologists and researchers ([Paper](https://www.sciencedirect.com/science/article/pii/S0893395222055260))   
 3. Detecting and Grading Colorectal Cancer (CRC) from Whole Slide Images with Mixed-Supervision   
