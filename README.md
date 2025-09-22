@@ -6,7 +6,7 @@
 
 I'm a Artificial Intelligence Scientis at Unilabs in Portugal working on medical artificial intelligence. While confidential, my work will be directed to several image-based use cases at Unilabs. 
 
-My past work focused on computer vision problems, such as face biometrics and digital pathology. I am also finishing my PhD in "Explainable Artificial Intelligence for (Face) Biometrics". In parallel I have led as PI a project on this topic, conducted research on colorectal cancer diagnosis from WSI (with industry partners) and delivered lectures and practical sessions of ML to PhD students at FEUP, Portugal. 
+My past work focused on computer vision problems, such as face biometrics and digital pathology. I hold a PhD in Artificial Intelligence. In parallel I have led, as PI, a project on explainable AI for biometrics, conducted research on colorectal cancer diagnosis from WSI (with industry partners) and delivered lectures and practical sessions of ML to PhD students at FEUP, Portugal. 
 
 
 You can find my contributions to science by topic: 
