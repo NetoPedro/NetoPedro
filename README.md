@@ -47,4 +47,5 @@ You can find my contributions to science by topic:
   - [Google Scholar](https://scholar.google.com/citations?hl=en&user=xR33Ko0AAAAJ)  
   - [LinkedIn](https://www.linkedin.com/in/pedro-c-neto-a94862106)  
   - [ResearchGate](https://www.researchgate.net/profile/Pedro-Neto-27)  
-  - [GitHub](https://github.com/netopedro) 
+  - [GitHub](https://github.com/netopedro)
+  - [My Website](https://netopedro.github.io)
